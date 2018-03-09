@@ -1,0 +1,8 @@
+{
+  "namespace": "deadsimple.generated",
+  "type": "record",
+  "name": "ApplicationState",
+  "fields": [
+    {"name": "name", "type": "string"}
+  ]
+}
